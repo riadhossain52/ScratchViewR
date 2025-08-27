@@ -13,7 +13,6 @@ dependencyResolutionManagement {
 	}
 
 
-
     dependencies {
 	        implementation 'com.github.riadhossain52:ScratchViewR:Tag'
 	}
