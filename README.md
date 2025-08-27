@@ -6,7 +6,8 @@ Add it in your root settings.gradle at the end of repositories:
 
 gradle
 
-dependencyResolutionManagement {
+
+	dependencyResolutionManagement {
 		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
 		repositories {
 			mavenCentral()
@@ -17,6 +18,8 @@ dependencyResolutionManagement {
  
 Step 2. Add the dependency
 gradle
-    dependencies {
+
+
+ 	dependencies {
 	        implementation 'com.github.riadhossain52:ScratchViewR:Tag'
 	}
