@@ -1,10 +1,11 @@
 # ScratchViewR
 An Android custom ScratchView library for creating scratch card effects with configurable text and image.
 
-.......
 
 Add it in your root settings.gradle at the end of repositories:
+
 gradle
+
 dependencyResolutionManagement {
 		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
 		repositories {
